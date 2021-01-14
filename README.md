@@ -4,8 +4,6 @@ Contact me on:  <a href="https://www.linkedin.com/in/alba-casillas-rodr%C3%ADgue
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N82JL7V)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasillasAlba)](https://github.com/CasillasAlba/github-readme-stats)
-
 <!--
 **CasillasAlba/CasillasAlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
