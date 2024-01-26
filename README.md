@@ -4,9 +4,11 @@ Contact me on:  <a href="https://www.linkedin.com/in/alba-casillas-rodr%C3%ADgue
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasillasAlba)](https://github.com/CasillasAlba/github-readme-stats) -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CasillasAlba&theme=midnight-purple&langs_count=10&layout=compact"> -->
-<img src = "https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=CasillasAlba&theme=midnight-purple&langs_count=10&layout=compact">
+<!-- <img src = "https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=CasillasAlba&theme=midnight-purple&langs_count=10&layout=compact"> -->
   
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasillasAlba&theme=tokyonight)
 
 <!--
 **CasillasAlba/CasillasAlba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
